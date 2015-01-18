@@ -1,7 +1,7 @@
 {
   "name": "md-elements",
-  "description": "HTML block tags that are considered valid by the commonmark specification.",
-  "version": "0.1.0",
+  "description": "HTML block tags considered valid in markdown according to the CommonMark specification.",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/md-elements",
   "author": {
     "name": "Jon Schlinkert",

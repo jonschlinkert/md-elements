@@ -1,6 +1,6 @@
 # md-elements [![NPM version](https://badge.fury.io/js/md-elements.svg)](http://badge.fury.io/js/md-elements)
 
-> HTML block tags that are considered valid by the commonmark specification.
+> HTML block tags considered valid in markdown according to the CommonMark specification.
 
 See http://spec.commonmark.org/spec.html#html-blocks
 
